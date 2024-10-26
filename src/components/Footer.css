@@ -1,0 +1,14 @@
+.blue-bg{
+    background-color: #0a58ca;
+    color: #fff;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:active{
+    text-decoration: none;
+    color: #fff;
+}
